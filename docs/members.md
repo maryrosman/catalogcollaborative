@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Navigation Structure
+title: Member Directory
 nav_order: 2
 ---
 hi
