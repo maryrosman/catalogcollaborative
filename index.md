@@ -4,10 +4,7 @@ layout: home
 navigation: 1
 ---
 
-This site serves as a reference of all members
-Purpose:
-Meeting: 
-
+Hello World
 
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
